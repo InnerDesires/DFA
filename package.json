@@ -1,0 +1,17 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "lab 2 for sys-prog at KNU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.7.11"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
